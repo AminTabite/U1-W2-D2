@@ -96,7 +96,7 @@ let es7a = 4;
 let es7b = 7;
 let es7c = 10;
 
-if ((es7c > es7b && es7a && es7b > es7a  < es7c, es7b)) {
+if ((es7c > es7b && es7a && es7b > es7a < es7c, es7b)) {
   console.log("10,7,4");
 } else {
   console.log("errore");
